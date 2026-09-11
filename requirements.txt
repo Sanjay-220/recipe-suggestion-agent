@@ -1,0 +1,6 @@
+anthropic>=0.125.0
+pytest>=8.0.0
+python-dotenv>=1.0.0
+# Required on Python <3.10 so pydantic (used by anthropic's @beta_tool) can
+# resolve PEP 604 "X | None" style annotations in tools.py.
+eval_type_backport>=0.4.0

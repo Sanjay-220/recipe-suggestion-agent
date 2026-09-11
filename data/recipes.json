@@ -1,0 +1,440 @@
+[
+  {
+    "id": "veg-omelette",
+    "name": "Vegetable Omelette",
+    "cuisine": "american",
+    "dietary_tags": ["vegetarian", "gluten_free"],
+    "ingredients": ["egg", "onion", "bell pepper", "cheese", "butter", "salt", "pepper"],
+    "instructions": [
+      "Whisk eggs with salt and pepper.",
+      "Saute diced onion and bell pepper in butter until soft.",
+      "Pour eggs over vegetables, cook until set, fold with cheese inside."
+    ],
+    "prep_time_minutes": 15
+  },
+  {
+    "id": "spinach-feta-scramble",
+    "name": "Spinach Feta Scramble",
+    "cuisine": "mediterranean",
+    "dietary_tags": ["vegetarian", "gluten_free"],
+    "ingredients": ["egg", "spinach", "feta cheese", "olive oil", "garlic", "salt"],
+    "instructions": [
+      "Wilt spinach and garlic in olive oil.",
+      "Add beaten eggs, scramble gently.",
+      "Fold in crumbled feta and season with salt."
+    ],
+    "prep_time_minutes": 10
+  },
+  {
+    "id": "margherita-pizza",
+    "name": "Margherita Pizza",
+    "cuisine": "italian",
+    "dietary_tags": ["vegetarian"],
+    "ingredients": ["pizza dough", "tomato", "mozzarella", "basil", "olive oil", "salt"],
+    "instructions": [
+      "Roll out dough and spread crushed tomato.",
+      "Top with mozzarella slices.",
+      "Bake at high heat, finish with fresh basil and olive oil."
+    ],
+    "prep_time_minutes": 25
+  },
+  {
+    "id": "aglio-e-olio",
+    "name": "Spaghetti Aglio e Olio",
+    "cuisine": "italian",
+    "dietary_tags": ["vegetarian", "vegan", "dairy_free"],
+    "ingredients": ["spaghetti", "garlic", "olive oil", "chili flakes", "parsley", "salt"],
+    "instructions": [
+      "Cook spaghetti until al dente.",
+      "Gently fry sliced garlic and chili flakes in olive oil.",
+      "Toss pasta with the oil, garnish with parsley."
+    ],
+    "prep_time_minutes": 20
+  },
+  {
+    "id": "mushroom-risotto",
+    "name": "Mushroom Risotto",
+    "cuisine": "italian",
+    "dietary_tags": ["vegetarian", "gluten_free"],
+    "ingredients": ["arborio rice", "mushroom", "onion", "vegetable broth", "parmesan", "butter", "white wine"],
+    "instructions": [
+      "Saute onion and mushroom in butter.",
+      "Add rice, toast briefly, deglaze with wine.",
+      "Add broth gradually, stirring, until creamy. Finish with parmesan."
+    ],
+    "prep_time_minutes": 40
+  },
+  {
+    "id": "chicken-tikka-masala",
+    "name": "Chicken Tikka Masala",
+    "cuisine": "indian",
+    "dietary_tags": ["gluten_free"],
+    "ingredients": ["chicken", "yogurt", "tomato", "onion", "garlic", "ginger", "garam masala", "cream"],
+    "instructions": [
+      "Marinate chicken in yogurt and spices, then sear.",
+      "Simmer onion, garlic, ginger and tomato into a sauce.",
+      "Add chicken and cream, simmer until cooked through."
+    ],
+    "prep_time_minutes": 45
+  },
+  {
+    "id": "chana-masala",
+    "name": "Chana Masala",
+    "cuisine": "indian",
+    "dietary_tags": ["vegetarian", "vegan", "dairy_free", "gluten_free"],
+    "ingredients": ["chickpea", "tomato", "onion", "garlic", "ginger", "cumin", "coriander", "chili powder"],
+    "instructions": [
+      "Saute onion, garlic and ginger with spices.",
+      "Add tomato and cook down into a thick sauce.",
+      "Add chickpeas and simmer until flavors meld."
+    ],
+    "prep_time_minutes": 30
+  },
+  {
+    "id": "paneer-butter-masala",
+    "name": "Paneer Butter Masala",
+    "cuisine": "indian",
+    "dietary_tags": ["vegetarian", "gluten_free"],
+    "ingredients": ["paneer", "tomato", "butter", "cream", "onion", "garlic", "ginger", "garam masala"],
+    "instructions": [
+      "Simmer onion, garlic, ginger and tomato into a sauce.",
+      "Blend smooth, return to pan with butter and cream.",
+      "Add paneer cubes and simmer briefly."
+    ],
+    "prep_time_minutes": 35
+  },
+  {
+    "id": "beef-tacos",
+    "name": "Beef Tacos",
+    "cuisine": "mexican",
+    "dietary_tags": [],
+    "ingredients": ["ground beef", "taco shell", "onion", "tomato", "lettuce", "cheese", "cumin", "chili powder"],
+    "instructions": [
+      "Brown ground beef with onion, cumin and chili powder.",
+      "Warm taco shells.",
+      "Fill shells with beef, top with tomato, lettuce and cheese."
+    ],
+    "prep_time_minutes": 25
+  },
+  {
+    "id": "black-bean-tacos",
+    "name": "Black Bean Tacos",
+    "cuisine": "mexican",
+    "dietary_tags": ["vegetarian", "vegan", "dairy_free"],
+    "ingredients": ["black beans", "taco shell", "onion", "tomato", "lettuce", "lime", "cumin", "chili powder"],
+    "instructions": [
+      "Saute onion, then add black beans, cumin and chili powder.",
+      "Mash lightly and warm through.",
+      "Fill taco shells, top with tomato, lettuce and a squeeze of lime."
+    ],
+    "prep_time_minutes": 20
+  },
+  {
+    "id": "guacamole",
+    "name": "Classic Guacamole",
+    "cuisine": "mexican",
+    "dietary_tags": ["vegetarian", "vegan", "dairy_free", "gluten_free"],
+    "ingredients": ["avocado", "lime", "onion", "tomato", "cilantro", "salt"],
+    "instructions": [
+      "Mash avocado with lime juice and salt.",
+      "Fold in diced onion, tomato and chopped cilantro."
+    ],
+    "prep_time_minutes": 10
+  },
+  {
+    "id": "kung-pao-chicken",
+    "name": "Kung Pao Chicken",
+    "cuisine": "chinese",
+    "dietary_tags": [],
+    "ingredients": ["chicken", "peanuts", "bell pepper", "soy sauce", "garlic", "ginger", "chili", "green onion"],
+    "instructions": [
+      "Stir-fry chicken until browned.",
+      "Add garlic, ginger, chili and bell pepper.",
+      "Toss with soy sauce and peanuts, garnish with green onion."
+    ],
+    "prep_time_minutes": 25
+  },
+  {
+    "id": "vegetable-fried-rice",
+    "name": "Vegetable Fried Rice",
+    "cuisine": "chinese",
+    "dietary_tags": ["vegetarian", "dairy_free"],
+    "ingredients": ["rice", "egg", "carrot", "peas", "soy sauce", "green onion", "garlic", "sesame oil"],
+    "instructions": [
+      "Scramble egg, set aside.",
+      "Stir-fry garlic, carrot and peas.",
+      "Add cold rice, soy sauce and sesame oil, toss with egg and green onion."
+    ],
+    "prep_time_minutes": 20
+  },
+  {
+    "id": "tofu-stir-fry",
+    "name": "Tofu Vegetable Stir Fry",
+    "cuisine": "chinese",
+    "dietary_tags": ["vegetarian", "vegan", "dairy_free", "gluten_free"],
+    "ingredients": ["tofu", "broccoli", "carrot", "soy sauce", "garlic", "ginger", "sesame oil"],
+    "instructions": [
+      "Pan-fry cubed tofu until golden, set aside.",
+      "Stir-fry garlic, ginger, broccoli and carrot.",
+      "Return tofu, toss with soy sauce and sesame oil."
+    ],
+    "prep_time_minutes": 20
+  },
+  {
+    "id": "pad-thai",
+    "name": "Pad Thai",
+    "cuisine": "thai",
+    "dietary_tags": [],
+    "ingredients": ["rice noodles", "egg", "shrimp", "bean sprouts", "peanuts", "lime", "fish sauce", "garlic"],
+    "instructions": [
+      "Soak rice noodles until pliable.",
+      "Stir-fry garlic and shrimp, push aside and scramble egg.",
+      "Add noodles, fish sauce and bean sprouts. Toss, top with peanuts and lime."
+    ],
+    "prep_time_minutes": 30
+  },
+  {
+    "id": "green-curry",
+    "name": "Thai Green Curry",
+    "cuisine": "thai",
+    "dietary_tags": ["gluten_free", "dairy_free"],
+    "ingredients": ["chicken", "coconut milk", "green curry paste", "bell pepper", "basil", "fish sauce"],
+    "instructions": [
+      "Fry curry paste in a splash of coconut milk until fragrant.",
+      "Add chicken and remaining coconut milk, simmer.",
+      "Add bell pepper, finish with basil and fish sauce."
+    ],
+    "prep_time_minutes": 35
+  },
+  {
+    "id": "miso-soup",
+    "name": "Miso Soup",
+    "cuisine": "japanese",
+    "dietary_tags": ["vegetarian", "vegan", "dairy_free", "gluten_free"],
+    "ingredients": ["miso paste", "tofu", "seaweed", "green onion", "dashi"],
+    "instructions": [
+      "Bring dashi to a gentle simmer.",
+      "Whisk in miso paste off heat.",
+      "Add cubed tofu, seaweed and sliced green onion."
+    ],
+    "prep_time_minutes": 15
+  },
+  {
+    "id": "salmon-teriyaki",
+    "name": "Salmon Teriyaki",
+    "cuisine": "japanese",
+    "dietary_tags": ["dairy_free"],
+    "ingredients": ["salmon", "soy sauce", "mirin", "sugar", "garlic", "ginger", "rice"],
+    "instructions": [
+      "Simmer soy sauce, mirin, sugar, garlic and ginger into a glaze.",
+      "Pan-sear salmon, basting with the glaze.",
+      "Serve over steamed rice."
+    ],
+    "prep_time_minutes": 25
+  },
+  {
+    "id": "greek-salad",
+    "name": "Greek Salad",
+    "cuisine": "mediterranean",
+    "dietary_tags": ["vegetarian", "gluten_free"],
+    "ingredients": ["cucumber", "tomato", "red onion", "feta cheese", "olive", "olive oil", "oregano"],
+    "instructions": [
+      "Chop cucumber, tomato and red onion.",
+      "Toss with olives and crumbled feta.",
+      "Dress with olive oil and oregano."
+    ],
+    "prep_time_minutes": 10
+  },
+  {
+    "id": "falafel-wrap",
+    "name": "Falafel Wrap",
+    "cuisine": "mediterranean",
+    "dietary_tags": ["vegetarian", "vegan", "dairy_free"],
+    "ingredients": ["chickpea", "garlic", "cumin", "coriander", "flatbread", "cucumber", "tomato", "tahini"],
+    "instructions": [
+      "Blend chickpeas, garlic and spices, form patties, fry until crisp.",
+      "Warm flatbread.",
+      "Fill with falafel, cucumber, tomato and a drizzle of tahini."
+    ],
+    "prep_time_minutes": 30
+  },
+  {
+    "id": "hummus",
+    "name": "Classic Hummus",
+    "cuisine": "mediterranean",
+    "dietary_tags": ["vegetarian", "vegan", "dairy_free", "gluten_free"],
+    "ingredients": ["chickpea", "tahini", "lemon", "garlic", "olive oil", "cumin"],
+    "instructions": [
+      "Blend chickpeas, tahini, lemon juice and garlic until smooth.",
+      "Adjust with olive oil and cumin to taste."
+    ],
+    "prep_time_minutes": 10
+  },
+  {
+    "id": "classic-burger",
+    "name": "Classic Beef Burger",
+    "cuisine": "american",
+    "dietary_tags": [],
+    "ingredients": ["ground beef", "burger bun", "cheese", "lettuce", "tomato", "onion", "ketchup"],
+    "instructions": [
+      "Form and season beef patties, grill to preference.",
+      "Toast buns.",
+      "Assemble with cheese, lettuce, tomato, onion and ketchup."
+    ],
+    "prep_time_minutes": 20
+  },
+  {
+    "id": "grilled-cheese",
+    "name": "Grilled Cheese Sandwich",
+    "cuisine": "american",
+    "dietary_tags": ["vegetarian"],
+    "ingredients": ["bread", "cheese", "butter"],
+    "instructions": [
+      "Butter one side of two bread slices.",
+      "Fill with cheese, butter-side out.",
+      "Grill in a pan until golden and cheese melts."
+    ],
+    "prep_time_minutes": 10
+  },
+  {
+    "id": "pancakes",
+    "name": "Fluffy Pancakes",
+    "cuisine": "american",
+    "dietary_tags": ["vegetarian"],
+    "ingredients": ["flour", "egg", "milk", "sugar", "baking powder", "butter"],
+    "instructions": [
+      "Whisk dry ingredients, then mix in egg and milk.",
+      "Cook spoonfuls of batter on a buttered griddle until bubbles form.",
+      "Flip and cook until golden."
+    ],
+    "prep_time_minutes": 20
+  },
+  {
+    "id": "overnight-oats",
+    "name": "Overnight Oats",
+    "cuisine": "american",
+    "dietary_tags": ["vegetarian", "gluten_free"],
+    "ingredients": ["oats", "milk", "yogurt", "honey", "banana"],
+    "instructions": [
+      "Combine oats, milk and yogurt in a jar.",
+      "Stir in honey and sliced banana.",
+      "Refrigerate overnight."
+    ],
+    "prep_time_minutes": 5
+  },
+  {
+    "id": "banana-smoothie",
+    "name": "Banana Peanut Butter Smoothie",
+    "cuisine": "american",
+    "dietary_tags": ["vegetarian", "gluten_free"],
+    "ingredients": ["banana", "peanut butter", "milk", "honey"],
+    "instructions": [
+      "Blend banana, peanut butter, milk and honey until smooth."
+    ],
+    "prep_time_minutes": 5
+  },
+  {
+    "id": "lentil-soup",
+    "name": "Hearty Lentil Soup",
+    "cuisine": "mediterranean",
+    "dietary_tags": ["vegetarian", "vegan", "dairy_free", "gluten_free"],
+    "ingredients": ["lentils", "carrot", "celery", "onion", "garlic", "vegetable broth", "cumin"],
+    "instructions": [
+      "Saute onion, carrot, celery and garlic.",
+      "Add lentils, broth and cumin, simmer until lentils are tender.",
+      "Blend partially for a thicker texture if desired."
+    ],
+    "prep_time_minutes": 35
+  },
+  {
+    "id": "caprese-salad",
+    "name": "Caprese Salad",
+    "cuisine": "italian",
+    "dietary_tags": ["vegetarian", "gluten_free"],
+    "ingredients": ["tomato", "mozzarella", "basil", "olive oil", "salt"],
+    "instructions": [
+      "Slice tomato and mozzarella.",
+      "Layer alternately with basil leaves.",
+      "Drizzle with olive oil and season with salt."
+    ],
+    "prep_time_minutes": 10
+  },
+  {
+    "id": "shakshuka",
+    "name": "Shakshuka",
+    "cuisine": "mediterranean",
+    "dietary_tags": ["vegetarian", "gluten_free"],
+    "ingredients": ["egg", "tomato", "onion", "bell pepper", "garlic", "cumin", "paprika"],
+    "instructions": [
+      "Simmer onion, bell pepper, garlic, tomato and spices into a sauce.",
+      "Make wells in the sauce and crack eggs into them.",
+      "Cover and cook until eggs are set."
+    ],
+    "prep_time_minutes": 25
+  },
+  {
+    "id": "beef-stir-fry",
+    "name": "Beef and Broccoli Stir Fry",
+    "cuisine": "chinese",
+    "dietary_tags": ["dairy_free"],
+    "ingredients": ["beef", "broccoli", "soy sauce", "garlic", "ginger", "sesame oil", "rice"],
+    "instructions": [
+      "Sear sliced beef quickly, set aside.",
+      "Stir-fry garlic, ginger and broccoli.",
+      "Return beef, toss with soy sauce and sesame oil, serve over rice."
+    ],
+    "prep_time_minutes": 25
+  },
+  {
+    "id": "vegetable-curry",
+    "name": "Mixed Vegetable Curry",
+    "cuisine": "indian",
+    "dietary_tags": ["vegetarian", "vegan", "dairy_free", "gluten_free"],
+    "ingredients": ["potato", "cauliflower", "peas", "tomato", "onion", "garlic", "ginger", "curry powder"],
+    "instructions": [
+      "Saute onion, garlic and ginger with curry powder.",
+      "Add potato, cauliflower and tomato, simmer with a splash of water.",
+      "Stir in peas at the end and cook until vegetables are tender."
+    ],
+    "prep_time_minutes": 35
+  },
+  {
+    "id": "caesar-salad",
+    "name": "Chicken Caesar Salad",
+    "cuisine": "american",
+    "dietary_tags": [],
+    "ingredients": ["chicken", "romaine lettuce", "parmesan", "croutons", "caesar dressing"],
+    "instructions": [
+      "Grill and slice chicken.",
+      "Toss romaine with caesar dressing.",
+      "Top with chicken, parmesan and croutons."
+    ],
+    "prep_time_minutes": 20
+  },
+  {
+    "id": "veggie-quesadilla",
+    "name": "Veggie Quesadilla",
+    "cuisine": "mexican",
+    "dietary_tags": ["vegetarian", "gluten_free"],
+    "ingredients": ["tortilla", "cheese", "bell pepper", "onion", "black beans"],
+    "instructions": [
+      "Saute bell pepper and onion.",
+      "Fill tortilla with cheese, vegetables and black beans, fold.",
+      "Cook in a pan until cheese melts and tortilla is crisp."
+    ],
+    "prep_time_minutes": 15
+  },
+  {
+    "id": "french-toast",
+    "name": "Classic French Toast",
+    "cuisine": "american",
+    "dietary_tags": ["vegetarian"],
+    "ingredients": ["bread", "egg", "milk", "cinnamon", "butter", "maple syrup"],
+    "instructions": [
+      "Whisk egg, milk and cinnamon.",
+      "Dip bread slices, then fry in butter until golden on both sides.",
+      "Serve with maple syrup."
+    ],
+    "prep_time_minutes": 15
+  }
+]
