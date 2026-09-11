@@ -23,7 +23,7 @@ in real data instead of the model's general knowledge.
  recipe_agent/filtering.py             (pure Python — ingredient matching,
      |                                  dietary/cuisine filters, ranking)
      v
- data/recipes.json                     (34 recipes, local, no external API)
+ data/recipes.json                     (50 recipes, local, no external API)
 ```
 
 1. The user describes what ingredients they have (and optionally dietary
@@ -100,7 +100,9 @@ See `docs/example_run.md` for a full sample transcript.
 ## Project layout
 
 ```
-data/recipes.json          Local recipe dataset (34 recipes)
+data/recipes.json          Local recipe dataset (50 recipes: american, italian,
+                           indian, south_indian, mexican, chinese, thai,
+                           japanese, mediterranean)
 recipe_agent/filtering.py  Ingredient normalization, scoring, ranking (pure Python)
 recipe_agent/substitutions.py  Static ingredient-substitution lookup
 recipe_agent/tools.py      @beta_tool-wrapped adapters Claude calls
@@ -128,7 +130,7 @@ API calls, so the suite runs offline and deterministically.
   semantic — it won't know "chicken breast" and "chicken thigh" are both
   "chicken" unless written that way in the dataset, and it has no
   quantity/unit awareness (it only checks whether an ingredient is present).
-- **Dataset is static and local** (34 recipes) by design, per project scope
+- **Dataset is static and local** (50 recipes) by design, per project scope
   — no external recipe API dependency, so the agent runs fully offline
   except for the Claude call itself.
 - **Substitutions** come from a small hardcoded table, not a live lookup —

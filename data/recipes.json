@@ -436,5 +436,213 @@
       "Serve with maple syrup."
     ],
     "prep_time_minutes": 15
+  },
+  {
+    "id": "masala-dosa",
+    "name": "Masala Dosa",
+    "cuisine": "south_indian",
+    "dietary_tags": ["vegetarian", "vegan", "dairy_free", "gluten_free"],
+    "ingredients": ["dosa batter", "potato", "onion", "mustard seed", "turmeric", "curry leaves", "oil", "salt"],
+    "instructions": [
+      "Saute mustard seeds, onion and curry leaves in oil until fragrant.",
+      "Add boiled potato and turmeric, mash lightly to make the filling.",
+      "Spread dosa batter thin on a hot griddle, add the filling, fold and serve crisp."
+    ],
+    "prep_time_minutes": 30
+  },
+  {
+    "id": "idli-sambar",
+    "name": "Idli with Sambar",
+    "cuisine": "south_indian",
+    "dietary_tags": ["vegetarian", "vegan", "dairy_free", "gluten_free"],
+    "ingredients": ["idli batter", "toor dal", "tamarind", "drumstick", "tomato", "onion", "sambar powder", "curry leaves", "mustard seed", "oil"],
+    "instructions": [
+      "Steam idli batter in molds until fluffy and set.",
+      "Cook toor dal until soft, then add tamarind pulp, tomato and vegetables.",
+      "Stir in sambar powder, simmer, then temper with mustard seeds and curry leaves. Serve with the idli."
+    ],
+    "prep_time_minutes": 35
+  },
+  {
+    "id": "medu-vada",
+    "name": "Medu Vada",
+    "cuisine": "south_indian",
+    "dietary_tags": ["vegetarian", "vegan", "dairy_free"],
+    "ingredients": ["urad dal", "onion", "green chili", "curry leaves", "ginger", "black pepper", "oil", "salt"],
+    "instructions": [
+      "Grind soaked urad dal into a thick, fluffy batter.",
+      "Fold in chopped onion, green chili, curry leaves and ginger.",
+      "Shape into rings and deep fry until golden and crisp."
+    ],
+    "prep_time_minutes": 30
+  },
+  {
+    "id": "rava-upma",
+    "name": "Rava Upma",
+    "cuisine": "south_indian",
+    "dietary_tags": ["vegetarian", "vegan", "dairy_free"],
+    "ingredients": ["semolina", "onion", "green chili", "mustard seed", "curry leaves", "peanuts", "ginger", "oil"],
+    "instructions": [
+      "Dry roast semolina until fragrant, then set aside.",
+      "Temper mustard seeds, curry leaves, peanuts, ginger and green chili in oil, add onion and saute.",
+      "Add water, bring to a boil, stir in the semolina and cook until fluffy."
+    ],
+    "prep_time_minutes": 20
+  },
+  {
+    "id": "ven-pongal",
+    "name": "Ven Pongal",
+    "cuisine": "south_indian",
+    "dietary_tags": ["vegetarian", "gluten_free"],
+    "ingredients": ["rice", "moong dal", "black pepper", "cumin", "ginger", "curry leaves", "ghee", "cashew"],
+    "instructions": [
+      "Cook rice and moong dal together with water until soft and mushy.",
+      "Temper black pepper, cumin, ginger, curry leaves and cashew in ghee.",
+      "Stir the tempering into the rice-dal mixture and serve hot."
+    ],
+    "prep_time_minutes": 25
+  },
+  {
+    "id": "sambar-rice",
+    "name": "Sambar Rice",
+    "cuisine": "south_indian",
+    "dietary_tags": ["vegetarian", "vegan", "dairy_free", "gluten_free"],
+    "ingredients": ["rice", "toor dal", "tamarind", "drumstick", "tomato", "onion", "sambar powder", "curry leaves", "mustard seed", "oil"],
+    "instructions": [
+      "Cook rice separately until soft.",
+      "Cook toor dal with tamarind, tomato and vegetables, then season with sambar powder.",
+      "Temper mustard seeds and curry leaves in oil, mix into the sambar, and serve over rice."
+    ],
+    "prep_time_minutes": 35
+  },
+  {
+    "id": "rasam",
+    "name": "Tomato Rasam",
+    "cuisine": "south_indian",
+    "dietary_tags": ["vegetarian", "vegan", "dairy_free", "gluten_free"],
+    "ingredients": ["tomato", "tamarind", "toor dal", "rasam powder", "garlic", "curry leaves", "mustard seed", "cumin", "ghee"],
+    "instructions": [
+      "Boil tomato and tamarind pulp with a little cooked toor dal.",
+      "Add rasam powder and crushed garlic, simmer until fragrant.",
+      "Temper mustard seed, cumin and curry leaves in ghee, and pour over the rasam."
+    ],
+    "prep_time_minutes": 25
+  },
+  {
+    "id": "curd-rice",
+    "name": "Curd Rice (Thayir Sadam)",
+    "cuisine": "south_indian",
+    "dietary_tags": ["vegetarian", "gluten_free"],
+    "ingredients": ["rice", "yogurt", "milk", "mustard seed", "curry leaves", "green chili", "ginger", "oil"],
+    "instructions": [
+      "Mash cooked rice with yogurt and a splash of milk until creamy.",
+      "Temper mustard seeds, curry leaves, green chili and ginger in oil.",
+      "Stir the tempering into the curd rice and serve chilled or at room temperature."
+    ],
+    "prep_time_minutes": 10
+  },
+  {
+    "id": "bisi-bele-bath",
+    "name": "Bisi Bele Bath",
+    "cuisine": "south_indian",
+    "dietary_tags": ["vegetarian", "gluten_free"],
+    "ingredients": ["rice", "toor dal", "carrot", "beans", "peas", "tamarind", "bisi bele bath powder", "ghee", "cashew", "curry leaves"],
+    "instructions": [
+      "Cook rice and toor dal together with mixed vegetables until soft.",
+      "Add tamarind pulp and bisi bele bath powder, then simmer to thicken.",
+      "Finish with a ghee tempering of cashew and curry leaves."
+    ],
+    "prep_time_minutes": 40
+  },
+  {
+    "id": "lemon-rice",
+    "name": "Lemon Rice",
+    "cuisine": "south_indian",
+    "dietary_tags": ["vegetarian", "vegan", "dairy_free", "gluten_free"],
+    "ingredients": ["rice", "lemon", "peanuts", "mustard seed", "curry leaves", "green chili", "turmeric", "oil"],
+    "instructions": [
+      "Temper mustard seeds, peanuts, curry leaves and green chili in oil.",
+      "Add turmeric and cooked rice, and toss to coat evenly.",
+      "Squeeze in fresh lemon juice and mix well before serving."
+    ],
+    "prep_time_minutes": 15
+  },
+  {
+    "id": "avial",
+    "name": "Avial",
+    "cuisine": "south_indian",
+    "dietary_tags": ["vegetarian", "gluten_free"],
+    "ingredients": ["mixed vegetables", "coconut", "yogurt", "cumin", "green chili", "curry leaves", "coconut oil", "turmeric"],
+    "instructions": [
+      "Boil mixed vegetables with turmeric until just tender.",
+      "Grind coconut, cumin and green chili into a coarse paste and stir in.",
+      "Finish with yogurt and a drizzle of raw coconut oil, and garnish with curry leaves."
+    ],
+    "prep_time_minutes": 30
+  },
+  {
+    "id": "kerala-fish-curry",
+    "name": "Kerala Fish Curry (Meen Curry)",
+    "cuisine": "south_indian",
+    "dietary_tags": ["dairy_free", "gluten_free"],
+    "ingredients": ["fish", "coconut milk", "tamarind", "onion", "garlic", "ginger", "curry leaves", "chili powder", "mustard seed", "coconut oil"],
+    "instructions": [
+      "Simmer tamarind pulp with chili powder, onion, garlic and ginger.",
+      "Add fish pieces and cook gently until just done.",
+      "Stir in coconut milk, simmer briefly, and temper with mustard seed and curry leaves in coconut oil."
+    ],
+    "prep_time_minutes": 30
+  },
+  {
+    "id": "chicken-chettinad",
+    "name": "Chicken Chettinad",
+    "cuisine": "south_indian",
+    "dietary_tags": ["dairy_free", "gluten_free"],
+    "ingredients": ["chicken", "coconut", "onion", "tomato", "garlic", "ginger", "curry leaves", "black pepper", "fennel seed", "coconut oil"],
+    "instructions": [
+      "Roast coconut, black pepper and fennel seed, then grind into a paste.",
+      "Saute onion, garlic, ginger and curry leaves in coconut oil, add tomato and cook down.",
+      "Add chicken and the ground paste, and simmer until the chicken is cooked through and the sauce thickens."
+    ],
+    "prep_time_minutes": 45
+  },
+  {
+    "id": "pesarattu",
+    "name": "Pesarattu",
+    "cuisine": "south_indian",
+    "dietary_tags": ["vegetarian", "vegan", "dairy_free", "gluten_free"],
+    "ingredients": ["moong dal", "ginger", "green chili", "cumin", "onion", "oil", "salt"],
+    "instructions": [
+      "Grind soaked moong dal with ginger, green chili and cumin into a smooth batter.",
+      "Spread thin on a hot griddle like a dosa, and sprinkle chopped onion on top.",
+      "Drizzle oil, cook until crisp on both sides and serve hot."
+    ],
+    "prep_time_minutes": 25
+  },
+  {
+    "id": "payasam",
+    "name": "Semiya Payasam",
+    "cuisine": "south_indian",
+    "dietary_tags": ["vegetarian", "gluten_free"],
+    "ingredients": ["vermicelli", "milk", "sugar", "cardamom", "cashew", "raisin", "ghee"],
+    "instructions": [
+      "Roast vermicelli lightly in ghee along with cashew and raisin.",
+      "Add milk and sugar, and simmer until the vermicelli is soft and the payasam thickens.",
+      "Finish with a pinch of cardamom and serve warm or chilled."
+    ],
+    "prep_time_minutes": 20
+  },
+  {
+    "id": "kerala-vegetable-stew",
+    "name": "Kerala Vegetable Stew (Ishtu)",
+    "cuisine": "south_indian",
+    "dietary_tags": ["vegetarian", "vegan", "dairy_free", "gluten_free"],
+    "ingredients": ["potato", "carrot", "beans", "coconut milk", "onion", "ginger", "green chili", "curry leaves", "coconut oil", "black pepper"],
+    "instructions": [
+      "Saute onion, ginger, green chili and curry leaves in coconut oil.",
+      "Add potato, carrot and beans with a little water, and simmer until tender.",
+      "Stir in coconut milk and black pepper, simmer gently without a hard boil, and serve warm."
+    ],
+    "prep_time_minutes": 30
   }
 ]
